@@ -7,7 +7,7 @@
     
 
         /** 
-         * 指定した要素の子供をすべて削除する
+         * 指定した要素の子供をすべて削除する。
          * @param {HTMLElement} element HTMLの要素
          */
          function removeAllChildren(element){
